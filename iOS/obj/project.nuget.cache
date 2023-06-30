@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSlY2Zz0bD+eaZXbbzuLGq/+vqtY+4USsfg6ezt66hb6AkrFAAcBLDOg7jVByEmAdLAyPU1a6JJPlLDgZNkAaQ==",
+  "success": true,
+  "projectFilePath": "E:\\xamarin-forms-barcode-qrcode-scanner\\iOS\\BarcodeQrScanner.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parse\\.nuget\\packages\\skiasharp\\2.88.0\\skiasharp.2.88.0.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\skiasharp.nativeassets.ios\\2.88.0\\skiasharp.nativeassets.ios.2.88.0.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\skiasharp.views\\2.88.0\\skiasharp.views.2.88.0.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\skiasharp.views.forms\\2.88.0\\skiasharp.views.forms.2.88.0.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\xamarin.dynamsoft.barcode.ios\\9.2.10\\xamarin.dynamsoft.barcode.ios.9.2.10.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\parse\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}

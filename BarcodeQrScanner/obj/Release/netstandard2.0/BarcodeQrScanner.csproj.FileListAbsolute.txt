@@ -1,0 +1,12 @@
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\bin\Release\netstandard2.0\BarcodeQrScanner.deps.json
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\bin\Release\netstandard2.0\BarcodeQrScanner.dll
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\bin\Release\netstandard2.0\BarcodeQrScanner.pdb
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.csproj.AssemblyReference.cache
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.GeneratedMSBuildEditorConfig.editorconfig
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.AssemblyInfoInputs.cache
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.AssemblyInfo.cs
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.csproj.CoreCompileInputs.cache
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\XamlC.stamp
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.dll
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.pdb
