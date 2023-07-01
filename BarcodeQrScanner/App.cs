@@ -6,9 +6,17 @@ namespace BarcodeQrScanner
 {
 	public class App : Application
 	{
+		public static string Tocken = string.Empty; 
 		public App ()
 		{
-			MainPage = new NavigationPage (new BarcodeQrScanner.MainPage ());
+			if (Tocken != string.Empty)
+			{
+				MainPage = new NavigationPage(new BarcodeQrScanner.MainPage());
+			}
+			else
+			{
+				MainPage = new NavigationPage(new BarcodeQrScanner.AuthPage());
+			}
 		}
 
 		protected override void OnStart ()

@@ -10,3 +10,4 @@ E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard
 E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\XamlC.stamp
 E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.dll
 E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\BarcodeQrScanner.pdb
+E:\xamarin-forms-barcode-qrcode-scanner\BarcodeQrScanner\obj\Release\netstandard2.0\AuthPage.xaml.g.cs

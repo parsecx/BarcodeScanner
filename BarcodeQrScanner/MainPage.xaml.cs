@@ -13,11 +13,14 @@ namespace BarcodeQrScanner
 	{
         string PhotoPath = "";
         IBarcodeQRCodeService _barcodeQRCodeService;
+        string _tocken = string.Empty;
 
-        public MainPage ()
+        public MainPage()
 		{
-			InitializeComponent ();
+            InitializeComponent();
             InitService();
+            _tocken = App.Tocken;
+            
 
         }
 
@@ -98,7 +101,7 @@ namespace BarcodeQrScanner
             foreach (var item in result) 
             {
 
-                var text = await ApiHandler.PostToApi("https://apigeosoft.mojerp.hr/ver2/sni/QRCODEPOZIVI", item.text);
+                var text = await ApiHandler.PostToApi("https://apigeosoft.mojerp.hr/ver2/sni/QRCODEPOZIVI", item.text, _tocken);
                 if (text != "false")
                 {
                     await DisplayAlert("Response from api", text, "OK");
